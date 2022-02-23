@@ -1,0 +1,13 @@
+.inline{
+    display: inline-block;
+    margin-right: 2rem;
+}
+input{
+    width: 170px !important;
+}
+select{
+    width: 200px !important;
+}
+.btn{
+padding: 0.4rem;
+}
