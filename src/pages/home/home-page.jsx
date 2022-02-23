@@ -137,5 +137,3 @@ function Home() {
 }
 
 export default Home;
-
-// let duration = (new Date(valueCut2).getTime() - new Date(valueCut).getTime()) / 86400000;
